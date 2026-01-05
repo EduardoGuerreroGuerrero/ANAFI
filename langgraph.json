@@ -1,0 +1,10 @@
+{
+    "python_version": "3.11",
+    "dependencies": [
+        "."
+    ],
+    "graphs": {
+        "anafi_agent": "./src/graph/builder.py:anafi_financial_agent"
+    },
+    "env": ".env"
+}
